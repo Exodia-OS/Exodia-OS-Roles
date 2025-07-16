@@ -18,11 +18,11 @@ Contributions are welcome! Please see the README files in each directory for mor
 
 Below are some screenshots showcasing the Exodia OS Roles in action:
 
-| Role Overview | Role Selection | Role Creation |
-|:-------------:|:--------------:|:-------------:|
-| ![Role Overview](imgs/Role-Overview.png) | ![Role Select](imgs/Role-Select.png) | ![Role Create](imgs/Role-Create.png) |
+| Role Overview | Role Selection | Role Creation | Role Exploration |
+|:-------------:|:--------------:|:-------------:|:----------------:|
+| ![Role Overview](imgs/Role-Overview.png) | ![Role Select](imgs/Role-Select.png) | ![Role Create](imgs/Role-Create.png) | ![Role Explore](imgs/Role-Explore.png) |
 
-| Role Exploration | Role Materials | Role Roadmap | Role Environment Setup |
+| Role Roadmap | Role Materials | Role Hands-On | Role Environment Setup  |
 |:----------------:|:--------------:|:-------------:|:---------------------:|
-| ![Role Explore](imgs/Role-Explore.png) | ![Role Materials](imgs/Role-Materials.png) | ![Role RoadMap](imgs/Role-RoadMap.png) | ![Role Env Setup](imgs/Role-Env-Setup.png) |
+| ![Role RoadMap](imgs/Role-RoadMap.png) | ![Role Materials](imgs/Role-Materials.png) | ![Role Hands-On](imgs/Role-Hands-On.png) | ![Role Env Setup](imgs/Role-Env-Setup.png) |
  

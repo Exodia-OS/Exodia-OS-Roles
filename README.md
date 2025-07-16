@@ -10,6 +10,10 @@ This repository contains a collection of roles for the Exodia OS Assistant, orga
 - `official/` - Official roles, curated and supported by the Exodia OS maintainers.
 - `community/` - Roles contributed by the community. These may vary in quality and support.
 
+## Contributing
+
+Contributions are welcome! Please see the README files in each directory for more details on contributing to official or community roles.
+
 ## Showcase
 
 Below are some screenshots showcasing the Exodia OS Roles in action:
@@ -21,7 +25,4 @@ Below are some screenshots showcasing the Exodia OS Roles in action:
 | Role Exploration | Role Materials | Role Roadmap | Role Environment Setup |
 |:----------------:|:--------------:|:-------------:|:---------------------:|
 | ![Role Explore](imgs/Role-Explore.png) | ![Role Materials](imgs/Role-Materials.png) | ![Role RoadMap](imgs/Role-RoadMap.png) | ![Role Env Setup](imgs/Role-Env-Setup.png) |
-
-## Contributing
-
-Contributions are welcome! Please see the README files in each directory for more details on contributing to official or community roles. 
+ 
